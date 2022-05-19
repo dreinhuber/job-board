@@ -6,6 +6,7 @@
   - should I integrate an ATS?
   - are external/contract recruiters used by co-ops? 
 
-## - [Excalidraw 1.0](https://excalidraw.com/#json=RWqnuyyadcprNVXe8TZs7,aCN-IOkqkx7LBc0G1cCvRA)
+## [Excalidraw 1.1](https://excalidraw.com/#json=fC2quxr4lsI2mE7sO2h5a,Hdeb8ELohBOcBQn1RWimsQ) 
+  - [Excalidraw 1.0](https://excalidraw.com/#json=RWqnuyyadcprNVXe8TZs7,aCN-IOkqkx7LBc0G1cCvRA)
   - will list previous versions as it changes
 
